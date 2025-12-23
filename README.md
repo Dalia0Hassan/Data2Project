@@ -73,6 +73,7 @@ The first week is critical for video performance across both formats, with engag
 - GitHub management and Repository setup
 
 **Salma Sameeh:**
+- Dataset selection
 - Research Question Formulation
 - Data Visualization
 - Conclusions and Discussion

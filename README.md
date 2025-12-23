@@ -65,9 +65,7 @@ The first week is critical for video performance across both formats, with engag
 - Dataset is based on YouTube's recommendation system 
 - Results generalize well to popular, recommended content but may not apply to niche channels or emerging creators 
 
-## Authors
-
-**Dalia Hassan** and **Salma Sameeh** 
+## Contributions
 
 **Dalia Hassan:**
 - Data Preparation and Cleaning

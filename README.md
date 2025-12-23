@@ -69,6 +69,19 @@ The first week is critical for video performance across both formats, with engag
 
 **Dalia Hassan** and **Salma Sameeh** 
 
+**Dalia Hassan:**
+- Data Preparation and Cleaning
+- Statistical Analysis
+- GitHub management and Repository setup
+
+**Salma Sameeh:**
+- Research Question Formulation
+- Data Visualization
+- Conclusions and Discussion
+
+*Note: Development was done collaboratively and simultaneously using Google Colab. The final version was uploaded to GitHub from one account for consolidation.*
+
+
 DSCI 2410 - Fundamentals of Data Science II  
 American University in Cairo  
 December 9, 2025 

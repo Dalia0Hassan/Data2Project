@@ -39,7 +39,7 @@ This data science project investigates the impact of YouTube Shorts on viewer en
 
 ## Key Findings
 
-### 1. The Shorts Boom and Bust
+### 1. The Rise and Decline of Shorts Engagement
 Short-form videos drove overall engagement growth from 2019-2024, but engagement reversed sharply in 2025, with long-form videos reclaiming the lead.
 
 ### 2. Different Engagement Patterns
